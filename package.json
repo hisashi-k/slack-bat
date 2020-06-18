@@ -1,9 +1,9 @@
 {
   "name": "Hikikoumori",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "author": "hisashi.kumazawa@gmail.com",
-  "description": "Yokai Watch",
+  "description": "Youkai Watch: Hikikoumori Bot",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
